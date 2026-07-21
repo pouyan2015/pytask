@@ -26,4 +26,4 @@ def delete_task():
 delete_button = tk.Button(root, text="Delete Task", command=delete_task)
 delete_button.pack(pady=5)
 
-root.mainloop()
+root.mainloop() 
